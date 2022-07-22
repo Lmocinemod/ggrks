@@ -1,0 +1,18 @@
+[package]
+name = "ggrks"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "CLI tool for performing Google searches. Made as a joke."
+homepage = "https://github.com/Lmocinemod/ggrks"
+repository = "https://github.com/Lmocinemod/ggrks"
+readme = "README.md"
+keywords = ["google"]
+categories = ["command-line-utilities"]
+
+[dependencies]
+webbrowser = "0.7.1"
+
+[profile.release]
+strip = true
+lto = "thin"
