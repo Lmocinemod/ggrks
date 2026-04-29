@@ -1,0 +1,16 @@
+# https://cspell.org/docs/Configuration
+version: "0.2"
+language: "en"
+ignorePaths:
+  - "target"
+words:
+  - "dipshit"
+  - "dumbass"
+  - "ggrks"
+  - "gugure"
+  - "idfk"
+  - "jfgi"
+  - "kasu"
+  - "Lmocinemod"
+  - "Rakuten"
+  - "webbrowser"

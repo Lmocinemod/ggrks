@@ -11,7 +11,7 @@ keywords = ["google"]
 categories = ["command-line-utilities"]
 
 [dependencies]
-webbrowser = "0.8.7"
+webbrowser = "1.2.1"
 
 [profile.release]
 strip = true
